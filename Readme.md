@@ -1,9 +1,9 @@
 This is model is trained on the following Datasets
 [text](https://www.kaggle.com/datasets/aman2000jaiswal/agriculture-crop-images)
 
-#About The Project
-###This Project includes a model that is capable of pridicting the crops ie. ['jute', 'maize', 'rice', 'sugarcane', 'wheat']
-###The following is trained with more than 200 images and has shown a great validation accuracy
+# About The Project
+### This Project includes a model that is capable of pridicting the crops ie. ['jute', 'maize', 'rice', 'sugarcane', 'wheat']
+### The following is trained with more than 200 images and has shown a great validation accuracy
 
 
 **Getting Started**
